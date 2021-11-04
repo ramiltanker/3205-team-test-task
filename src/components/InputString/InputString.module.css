@@ -1,0 +1,20 @@
+.input_box {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.label {
+  position: absolute;
+  left: 16px;
+  top: 8px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+  color: rgba(17, 17, 17, 0.48);
+}
+
+.input_box:last-of-type {
+  margin-bottom: 0;
+}

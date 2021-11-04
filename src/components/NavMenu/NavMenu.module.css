@@ -1,0 +1,27 @@
+.nav_menu {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(17, 17, 17, 0.48);
+  opacity: 1;
+  transition: opacity 0.3s linear;
+}
+
+.link:hover {
+  opacity: 0.6;
+  transition: opacity 0.3s linear;
+}
+
+.link:first-of-type {
+  margin-right: 25px;
+}
