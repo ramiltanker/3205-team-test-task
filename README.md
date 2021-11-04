@@ -19,4 +19,4 @@
 3. TypeScript
 4. Styled Components
 
-## Приложение можно просмотреть по [ссылке]()
+## Приложение можно просмотреть по [ссылке](https://ramiltanker.github.io/3205-team-test-task/)
