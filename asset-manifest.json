@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/3205-team-test-task/static/css/main.0c31b3bf.chunk.css",
+    "main.js": "/3205-team-test-task/static/js/main.5c5b5a82.chunk.js",
+    "main.js.map": "/3205-team-test-task/static/js/main.5c5b5a82.chunk.js.map",
+    "runtime-main.js": "/3205-team-test-task/static/js/runtime-main.600575db.js",
+    "runtime-main.js.map": "/3205-team-test-task/static/js/runtime-main.600575db.js.map",
+    "static/js/2.bc88cedc.chunk.js": "/3205-team-test-task/static/js/2.bc88cedc.chunk.js",
+    "static/js/2.bc88cedc.chunk.js.map": "/3205-team-test-task/static/js/2.bc88cedc.chunk.js.map",
+    "static/js/3.9d370b70.chunk.js": "/3205-team-test-task/static/js/3.9d370b70.chunk.js",
+    "static/js/3.9d370b70.chunk.js.map": "/3205-team-test-task/static/js/3.9d370b70.chunk.js.map",
+    "index.html": "/3205-team-test-task/index.html",
+    "static/css/main.0c31b3bf.chunk.css.map": "/3205-team-test-task/static/css/main.0c31b3bf.chunk.css.map",
+    "static/js/2.bc88cedc.chunk.js.LICENSE.txt": "/3205-team-test-task/static/js/2.bc88cedc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/3205-team-test-task/static/media/MontserratThin.ce1cf12f.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.600575db.js",
+    "static/js/2.bc88cedc.chunk.js",
+    "static/css/main.0c31b3bf.chunk.css",
+    "static/js/main.5c5b5a82.chunk.js"
+  ]
+}
